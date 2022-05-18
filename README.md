@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-	<img align="center" src="https://github.com/thomas-anderson-0313/gada-pro-frontend/blob/main/topic.jpg?raw=true" style="width: 100%" />
+	<img align="center" src="https://github.com/thomas-anderson-0313/gada-pro-adminPanel/blob/main/topic.jpg?raw=true" style="width: 100%" />
 </p>
 
 ## How to run
